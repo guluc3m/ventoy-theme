@@ -1,0 +1,10 @@
+{
+    "theme":{
+        "file":[
+            "/ventoy/theme/theme.txt",
+            "/ventoy/theme/theme_legacy.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1
+    }
+}
