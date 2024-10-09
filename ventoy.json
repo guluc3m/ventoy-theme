@@ -7,4 +7,43 @@
         "default_file": 1,
         "resolution_fit": 1
     }
+
+    "menu_class": [
+        {
+            "key": "EndeavourOS",
+            "class": "endeavouros"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        },        
+        {
+            "key": "archlinux",
+            "class": "arch"
+        },
+        {
+            "key": "mint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "openSUSE",
+            "class": "opensuse"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop-os"
+        },
+        {
+            "key": "",
+            "class": "linux"
+        }
+    ]
 }
