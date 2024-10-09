@@ -1,13 +1,12 @@
 {
-    "theme":{
-        "file":[
+    "theme": {
+        "file": [
             "/ventoy/theme/theme.txt",
             "/ventoy/theme/theme_legacy.txt"
         ],
         "default_file": 1,
         "resolution_fit": 1
-    }
-
+    },
     "menu_class": [
         {
             "key": "EndeavourOS",
@@ -16,7 +15,7 @@
         {
             "key": "ubuntu",
             "class": "ubuntu"
-        },        
+        },
         {
             "key": "archlinux",
             "class": "arch"
