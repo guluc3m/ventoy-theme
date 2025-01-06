@@ -9,7 +9,8 @@ un menú de inicio al encender el sistema.
 ## Como usarlo
 1. Descarga [Ventoy](https://www.ventoy.net/en/download.html) e instálalo en el USB siguiendo
    [las instrucciones de la aplicación](https://www.ventoy.net/en/doc_start.html)
-3. En la partición `Ventoy`, crea una carpeta `ventoy/` y mete dentro la carpeta `theme` y el archivo `ventoy.json`sistema tiene que parecerse a:  
+3. En la partición `Ventoy`, crea una carpeta `ventoy/` y mete dentro la carpeta `theme` y el archivo `ventoy.json`.  
+   La carpeta tiene que parecerse a:  
     ```
     Ventoy/
     ├── ventoy/
