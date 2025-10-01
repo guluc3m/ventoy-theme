@@ -1,6 +1,6 @@
 {
-    "theme":{
-        "file":[
+    "theme": {
+        "file": [
             "/ventoy/ventoy/theme.txt",
             "/ventoy/ventoy/theme_legacy.txt"
         ],
@@ -76,6 +76,10 @@
         {
             "key": "openSUSE",
             "class": "opensuse"
+        },
+        {
+            "key": "omarchy",
+            "class": "omarchy"
         },
         {
             "key": "",
