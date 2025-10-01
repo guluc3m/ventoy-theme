@@ -1,10 +1,11 @@
 # Tema del GUL para Ventoy
 
+<img width="1024" height="768" alt="theme overview" src="https://github.com/user-attachments/assets/ee035d5f-32df-4585-9be3-96a9ba788fe2" />
+
 [Ventoy](https://www.ventoy.net/) es una herramienta open source para crear un medio booteable
 directamente desde el USB, el cual te permite arrancar directamente desde archivos
 ISO. Este te deja subirle todos los archivos que quieras y te los muestra en
 un menú de inicio al encender el sistema.
-
 
 ## Como usarlo
 1. Descarga [Ventoy](https://www.ventoy.net/en/download.html) e instálalo en el USB siguiendo
